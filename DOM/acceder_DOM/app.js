@@ -1,0 +1,1 @@
+const firstItem = document.getElementById("highlight");
